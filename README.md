@@ -1,4 +1,4 @@
-# mean-angular2-registration-login-example
+# skillscore-client-server
 
 SkillScore Client and Server
 
